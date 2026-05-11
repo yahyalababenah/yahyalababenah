@@ -25,13 +25,19 @@
 ---
 
 ### 🛠 Tech Stack
+### 🛠 Tech Stack
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,js,html,godot,arduino,linux,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=py,cpp,js,html,godot,arduino,linux,github,vscode,r,git,mysql" />
   </a>
 </p>
 
+<p align="left">
+  <img src="https://img.shields.io/badge/RPA_UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 ---
 
 ### ⚙️ GitHub Analytics
