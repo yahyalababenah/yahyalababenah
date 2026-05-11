@@ -34,15 +34,13 @@
 
 ### 👨🏻‍💻 About Me
 
-- 🔭 I’m currently working on **The 7th Layer** (2D Platformer) and **Data Science/RAG** projects.
-- 🌱 I’m currently learning **Machine Learning, NLP, and Mandarin Chinese 🇨🇳**
+- 🔭 I’m currently working on **The 7th Layer** (2D Platformer), **Data Science/RAG**, **sEMG Project** and **Heart_Disease_Project** projects.
+- 🌱 I’m currently learning **ML and DL, NLP, and Mandarin Chinese 🇨🇳**
 - 👯 I’m looking to collaborate on **AI Game Development and Embedded Systems**
-- 💬 Ask me about **Data Analysis, Godot Engine, Arduino, or Long-Distance Running 🏃‍♂️**
+- 💬 Ask me about **Data Analysis,ML,DL, Godot Engine, Arduino, or Long-Distance Running 🏃‍♂️**
 - ⚡ Fun fact: **I use Zorin OS as my daily driver and love combining drawing, singing, and tech!**
 
 ---
-
-### 🛠 Tech Stack
 ### 🛠 Tech Stack
 
 <p align="left">
