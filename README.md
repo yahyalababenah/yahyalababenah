@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)">
   </a>
 
-  <a href="https://instagram.com/YOUR_HANDLE">
+  <a href="https://instagram.com/by_yahia1">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 
