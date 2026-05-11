@@ -54,16 +54,6 @@
   <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
----
-
-### ⚙️ GitHub Analytics
-
-<p align="center">
-  <a href="https://github.com/yahyalababenah">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yahyalababenah&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yahyalababenah&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
-</p>
 
 ---
 
