@@ -34,7 +34,7 @@
 
 ### 👨🏻‍💻 About Me
 
-- 🔭 I’m currently working on **The 7th Layer** (2D Platformer), **Data Science/RAG**, **sEMG Project** and **Heart_Disease_Project** projects.
+- 🔭 I’m currently working on **The 7th Layer** (2D Platformer), **Data Science/RAG**, **sEMG Project** and **Heart_Disease** projects.
 - 🌱 I’m currently learning **ML and DL, NLP, and Mandarin Chinese 🇨🇳**
 - 👯 I’m looking to collaborate on **AI Game Development and Embedded Systems**
 - 💬 Ask me about **Data Analysis,ML,DL, Godot Engine, Arduino, or Long-Distance Running 🏃‍♂️**
