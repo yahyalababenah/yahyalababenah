@@ -45,17 +45,26 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,js,html,godot,arduino,linux,github,vscode,r,git,mysql" />
+    <img src="https://skillicons.dev/icons?i=py,r,cpp,js,html,fastapi,sklearn,mysql,godot,arduino,linux,github,git,vscode" />
   </a>
 </p>
 
 <p align="left">
+  <!-- الأتمتة وقواعد البيانات -->
   <img src="https://img.shields.io/badge/RPA_UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white" />
   <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  
+  <!-- الذكاء الاصطناعي وعلوم البيانات -->
+  <img src="https://img.shields.io/badge/XGBoost-172B4D?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TabNet-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Optuna-254A61?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SHAP_(XAI)-005571?style=for-the-badge&logo=databricks&logoColor=white" />
+  
+  <!-- هندسة النظم والإعدادات -->
+  <img src="https://img.shields.io/badge/MLOps-FF8243?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/YAML_Config-CB171E?style=for-the-badge&logo=yaml&logoColor=white" />
 </p>
-
----
 
 ### 📹 Latest YouTube Videos
 
