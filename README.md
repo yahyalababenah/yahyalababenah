@@ -84,24 +84,22 @@
 
 ### 📊 GitHub Analytics
 
+### 📊 GitHub Analytics
+
 <p align="center">
-  <!-- إحصائيات GitHub العامة -->
+  <!-- كؤوس الإنجازات (تعمل بسيرفر مستقر) -->
   <a href="https://github.com/yahyalababenah">
-    <img src="https://github-readme-stats.vercel.app/api?username=yahyalababenah&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_bypass=1" alt="GitHub Stats" />
-  </a>
-  
-  <!-- اللغات الأكثر استخداماً -->
-  <a href="https://github.com/yahyalababenah">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yahyalababenah&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_bypass=1" alt="Top Languages" />
+    <img src="https://github-profile-trophy.vercel.app/?username=yahyalababenah&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Yahya's Trophies" />
   </a>
 </p>
 
 <p align="center">
-  <!-- سلسلة النشاط (Streak) -->
+  <!-- سلسلة النشاط (التي تعمل لديك بنجاح) -->
   <a href="https://github.com/yahyalababenah">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yahyalababenah&theme=tokyonight&hide_border=true&background=0D1117&cache_bypass=1" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yahyalababenah&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
   </a>
 </p>
+
 
 ---
 ### 📹 Latest YouTube Videos
