@@ -84,11 +84,6 @@
 
 ### 📊 GitHub Activity
 
-<p align="center">
-  <a href="https://github.com/yahyalababenah">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=yahyalababenah&theme=tokyonight&bg_color=0D1117&hide_border=true" alt="Yahya's Activity Graph" />
-  </a>
-</p>
 
 <p align="center">
   <!-- سلسلة النشاط (Streak) -->
