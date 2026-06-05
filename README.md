@@ -80,7 +80,30 @@
   <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" />
   <img src="https://img.shields.io/badge/YAML_Config-CB171E?style=for-the-badge&logo=yaml&logoColor=white" />
 </p>
+---
 
+### 📊 GitHub Analytics
+
+<p align="center">
+  <!-- إحصائيات GitHub العامة -->
+  <a href="https://github.com/yahyalababenah">
+    <img src="https://github-readme-stats.vercel.app/api?username=yahyalababenah&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  </a>
+  
+  <!-- اللغات الأكثر استخداماً -->
+  <a href="https://github.com/yahyalababenah">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  </a>
+</p>
+
+<p align="center">
+  <!-- سلسلة النشاط (Streak) -->
+  <a href="https://github.com/yahyalababenah">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yahyalababenah&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  </a>
+</p>
+
+---
 ### 📹 Latest YouTube Videos
 
 <a href="https://www.youtube.com/watch?v=VIDEO_ID_1"><img src="https://img.youtube.com/vi/VIDEO_ID_1/mqdefault.jpg" width="260"></a>
