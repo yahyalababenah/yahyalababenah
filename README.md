@@ -86,10 +86,11 @@
 
 ### 📊 GitHub Analytics
 
+### 📊 GitHub Activity
+
 <p align="center">
-  <!-- كؤوس الإنجازات (تعمل بسيرفر مستقر) -->
   <a href="https://github.com/yahyalababenah">
-    <img src="https://github-profile-trophy.vercel.app/?username=yahyalababenah&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Yahya's Trophies" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=yahyalababenah&theme=tokyonight&bg_color=0D1117&hide_border=true" alt="Yahya's Activity Graph" />
   </a>
 </p>
 
