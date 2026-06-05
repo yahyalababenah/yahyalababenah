@@ -100,7 +100,10 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=yahyalababenah&theme=tokyonight&hide_border=true&background=0D1117&cache_bypass=1" alt="GitHub Streak" />
   </a>
 </p>
-
+<p align="center">
+  <!-- اللغات الأكثر استخداماً (مولدة تلقائياً عبر GitHub Actions) -->
+  <img src="./github-metrics.svg" alt="Top Languages" />
+</p>
 ---
 ### 📹 Latest YouTube Videos
 
