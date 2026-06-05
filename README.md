@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yahya Lababneh</h1>
-<h3 align="center">Machine Learning & MLOps Engineer | Robotics Enthusiast | Game Developer</h3>
+<h3 align="center">Machine Learning & MLOps Engineer | Robotics Enthusiast </h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
