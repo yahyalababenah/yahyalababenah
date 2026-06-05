@@ -1,0 +1,37 @@
+name: Generate GitHub Metrics
+
+on:
+  # التشغيل التلقائي كل 24 ساعة (منتصف الليل)
+  schedule: [{cron: "0 0 * * *"}]
+  # زر لتشغيل الأتمتة يدوياً متى شئت
+  workflow_dispatch:
+  # التحديث التلقائي عند أي تعديل على المستودع
+  push: {branches: ["main", "master"]}
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Generate Languages and Metrics SVG
+        uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics.svg
+          # استخدام التوكن الافتراضي من جيت هب (لا تحتاج لإنشاء شيء)
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: yahyalababenah
+          
+          # إعدادات التصميم الأساسية
+          config_timezone: Asia/Amman
+          config_theme: tokyonight # ثيم ليلي يتناسب مع باقي ملفك
+          
+          # هنا عطلنا الإحصائيات العامة لتظهر اللغات فقط بشكل أنيق
+          base: "" 
+          
+          # تفعيل إضافة اللغات
+          plugin_languages: yes
+          plugin_languages_ignored: html, css # تجاهل لغات التنسيق للتركيز على البرمجة
+          plugin_languages_limit: 6 # عرض أكثر 6 لغات استخداماً
+          plugin_languages_details: percentage # عرض النسبة المئوية
+          plugin_languages_sections: most-used
