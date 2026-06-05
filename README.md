@@ -82,10 +82,6 @@
 </p>
 ---
 
-### 📊 GitHub Analytics
-
-### 📊 GitHub Analytics
-
 ### 📊 GitHub Activity
 
 <p align="center">
