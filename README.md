@@ -94,12 +94,11 @@
 </p>
 
 <p align="center">
-  <!-- سلسلة النشاط (التي تعمل لديك بنجاح) -->
+  <!-- سلسلة النشاط (Streak) -->
   <a href="https://github.com/yahyalababenah">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yahyalababenah&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yahyalababenah&theme=tokyonight&hide_border=true&background=0D1117&cache_bypass=1" alt="GitHub Streak" />
   </a>
 </p>
-
 
 ---
 ### 📹 Latest YouTube Videos
