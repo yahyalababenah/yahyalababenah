@@ -73,7 +73,7 @@
 **⚙️ Development, Web & Automation**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,linux,github,git,vscode" />
+    <img src="https://skillicons.dev/icons?i=js,linux,github,git,vscode" />
   </a>
   <br>
   <img src="https://img.shields.io/badge/RPA_UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white" />
